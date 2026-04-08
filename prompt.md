@@ -50,6 +50,9 @@ Creare la pagina html e il css di un event planner, che contenga:
     - classi BEM-like dove utile
 - Preparare hook per JS:
     - data-* attributes per azioni (data-action="delete-guest")
+- I campi input devono essere tutti required.
+- La pagina HTML generata deve superare la W3C Validation. ( https://validator.w3.org/ )
+
 
 # Struttura
 - Il progetto sarà composto con questa struttura dei file:
