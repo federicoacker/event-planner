@@ -50,3 +50,12 @@
         - classi BEM-like dove utile
     - Preparare hook per JS:
         - data-* attributes per azioni (data-action="delete-guest")
+# Struttura
+    - Il progetto sarà composto con questa struttura dei file:
+    - Progetto
+        - scripts (cartella che conterrà i file javascript)
+            - script.js
+        - styles (cartella dove andranno le pagine di stile)
+            - index.css
+        - imgs (cartella per le immagini)
+        - index.html (File html che dovrai creare tu)
