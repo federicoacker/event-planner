@@ -34,7 +34,7 @@ Creare la pagina html e il css di un event planner, che contenga:
 - Vogliamo che lo stile sia accattivante per un target di white-collar workers per una delle big four. 
 
 # Vincoli
-- Non utilizzare JavaScript (né inline né tramite <script> eccetto per lo script di bootstrap 5.3.8)
+- Non utilizzare JavaScript (né inline né tramite tag script eccetto per lo script di bootstrap 5.3.8)
 - Utilizzare HTML5 semantico (section, form, aside, etc.)
 - Tutti gli input devono avere label collegate tramite for/id
 - Inserire attributi name coerenti per l'invio dati al backend
